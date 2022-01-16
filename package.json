@@ -1,0 +1,16 @@
+{
+  "name": "munch-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Eduardo Castro",
+    "github": "skillerm"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
